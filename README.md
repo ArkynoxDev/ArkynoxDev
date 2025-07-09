@@ -58,12 +58,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creative+Web+Developer;Designing+Clean+and+Responsive+UI;Loving+Code+and+Coffee+☕" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/github-profile-readme-pacman/main/assets/pacman.svg" alt="Pacman Animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/github-profile-readme-pacman/main/assets/pacman.svg" alt="pacman" />
-</p>
 
 <!--
 **ArkynoxDev/ArkynoxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
