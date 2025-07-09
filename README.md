@@ -1,8 +1,10 @@
 <!-- HEADER -->
 <h1 align="center" style="font-weight: bold;">Hi 👋, I'm Arkan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creative+Web+Developer;Designing+Clean+and+Responsive+UI;Loving+Code+and+Coffee+☕" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creative+Web+Developer;Loving+Neon+&+Coffee;Code+Hard+Dream+Big+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -53,6 +55,15 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creative+Web+Developer;Designing+Clean+and+Responsive+UI;Loving+Code+and+Coffee+☕" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/github-profile-readme-pacman/main/assets/pacman.svg" alt="pacman" />
+</p>
 
 <!--
 **ArkynoxDev/ArkynoxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
