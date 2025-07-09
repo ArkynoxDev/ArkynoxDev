@@ -55,12 +55,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/github-profile-readme-pacman/main/assets/pacman.svg" alt="Pacman Animation" />
-</p>
-
 
 <!--
 **ArkynoxDev/ArkynoxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
